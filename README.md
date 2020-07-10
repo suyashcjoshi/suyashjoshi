@@ -13,4 +13,4 @@ Little Bit About Me:
 - 💬 Ask me about Creative Coding, ML, Cloud Computing, UX
 - 📫 How to reach me: Twitter [@suyashcjoshi](https://twitter.com/suyashcjoshi) or email me
 - 🎩 Secret fact: Ask me to show you a Magic Trick ;)
-- 🗞 Free Newsletter : I publish monthly free newsletter on Technical Communication Skills, feel free to [Subscribe] (http://tinyletter.com/suyash)
+- 🗞 Free Newsletter : I publish monthly free newsletter on Technical Communication Skills, feel free to [Subscribe](http://tinyletter.com/suyash)
