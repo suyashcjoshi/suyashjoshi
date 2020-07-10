@@ -2,8 +2,9 @@
 
 <!--
 **suyashjoshi/suyashjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+Little Bit About Me:
 
 - 🔭 I’m currently working on Machine Learning Engineering for Java
 - 🌱 For fun I'm currently buidling an IOT Musical and Magical instrument!
@@ -12,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Creative Coding, ML, Cloud Computing, UX
 - 📫 How to reach me: email or twitter @suyashcjoshi
 - ⚡ Fun fact: Ask me to show you a Magic Trick ;)
--->
+
