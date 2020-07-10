@@ -6,7 +6,7 @@
 
 Little Bit About Me:
 
-- 🔭 I’m currently working on Machine Learning Engineering for Java
+- 🔭 I’m currently working on Machine Learning Engineering using Java related technologies
 - 🌱 For fun I'm currently buidling an IOT Musical and Magical instrument!
 - 👯 I’m looking to collaborate on Java and ML Projects
 - 🤔 I’m looking for help with Cloud Native Java Best Practices
