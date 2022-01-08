@@ -13,4 +13,4 @@ Little Bit About Me:
 - 💬 Ask me about Creative Coding, ML, Cloud Computing, Design and join my meetup groups : https://www.meetup.com/sfcreative/ , https://www.meetup.com/sfinteraction/ , https://www.meetup.com/svmobiledev/
 - 📫 How to reach me: Twitter [@suyashcjoshi](https://twitter.com/suyashcjoshi) or email me
 - 🎩 Secret fact: Ask me to show you a Magic Trick ;)
-- 🗞 <b>Free Newsletter<b> : I publish monthly free newsletter on Technical Communication Skills, feel free to [Subscribe](http://tinyletter.com/suyash)
+- 🗞 Free Newsletter : I plan to start a free newsletter on Technical Communication Skills, feel free to [Subscribe](http://tinyletter.com/suyash)
